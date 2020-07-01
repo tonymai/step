@@ -14,3 +14,5 @@ To get started:
 Then follow the on-screen instructions to set up your repo.
 
 My portfolio contains examples in sections.
+
+My portfolio contains a "contact me" section.
